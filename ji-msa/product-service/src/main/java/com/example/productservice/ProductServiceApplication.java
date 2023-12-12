@@ -1,13 +1,13 @@
-package com.example.jimsa;
+package com.example.productservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JiMsaApplication {
+public class ProductServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JiMsaApplication.class, args);
+        SpringApplication.run(ProductServiceApplication.class, args);
     }
 
 }
