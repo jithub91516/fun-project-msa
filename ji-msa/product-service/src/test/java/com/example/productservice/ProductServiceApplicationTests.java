@@ -1,10 +1,10 @@
-package com.example.jimsa;
+package com.example.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JiMsaApplicationTests {
+class ProductServiceApplicationTests {
 
     @Test
     void contextLoads() {

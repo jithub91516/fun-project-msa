@@ -1,1 +1,2 @@
 rootProject.name = 'ji-msa'
+include 'product-service'
