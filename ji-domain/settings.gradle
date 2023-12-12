@@ -1,0 +1,2 @@
+rootProject.name = 'ji-domain'
+include 'product-master'
