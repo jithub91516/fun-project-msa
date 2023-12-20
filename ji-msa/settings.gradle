@@ -1,3 +1,4 @@
 rootProject.name = 'ji-msa'
-include 'product-service'
+include 'prd-service'
+
 includeBuild('../ji-domain')
